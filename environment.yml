@@ -152,5 +152,4 @@ dependencies:
   - pip:
     - dc-stat-think==1.0.2
     - python-graphviz==0.11.1
-prefix: C:\Users\themi\Anaconda3\envs\PythonGPU
 
